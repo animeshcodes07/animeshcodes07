@@ -8,7 +8,7 @@ Hey there! My name is Gnanavel Premnath, studying computer science. Besides codi
 
 - i love food
 - always down to talk about horror movies
-- i love persona series and expedition 33 (i can yapp about these games)
+- i love persona series and clair obscur
 - i am currently learning visual computing and image manipulation
 - reach out to me: premnathgnanavel150@gmail.com
 - check out my <a href="https://www.instagram.com/gnani.dev">instagram</a> <sub><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="16" height="16" alt="Instagram logo" /></sub>
