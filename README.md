@@ -6,7 +6,6 @@ Hey there! My name is Gnanavel Premnath, studying computer science. Besides codi
 
 <h3>about me</h3>
 
-- i love food
 - always down to talk about horror movies
 - i love persona series and clair obscur
 - i am currently learning visual computing and image manipulation
