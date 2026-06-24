@@ -11,7 +11,7 @@ Hi there! My name is Animesh Mishra, studying computer science. Building things 
 - understanding Linux, Docker, Cloud services 🧑‍💻
 - currently pursuing B.tech in cse from G.d goenka university 🎓
 - Manifesting a life with 99.9% uptime, zero bugs,
-  and high production value. 🚀
+  and high production value.
 - reach out to me: anmshcodes@gmail.com 
 - check out my <a href="https://www.instagram.com/anmsh07?igsh=NmVubGE2ZjRqaGpz">instagram</a> <sub><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="10" height="10" alt="Instagram logo" /></sub>
 
