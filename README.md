@@ -1,6 +1,6 @@
 <h2>welcome!</h2> 
 
-Hi there! My name is Animesh Mishra, studying computer science. Building things that blend code with creativity 
+Hi there! My name is**ANIMESH MISHRA**, studying computer science. Building things that blend code with creativity 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdocjF0OHF0ZHc5eGt1eTZ2ZHJka29sOHhzaXkwdmJoZGp1aDZ4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XbV2mrHs6ureBPUEuJ/giphy.gif" />
 
