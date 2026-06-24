@@ -13,7 +13,7 @@ Hi there! My name is Animesh Mishra, studying computer science. Building things 
 - Manifesting a life with 99.9% uptime, zero bugs,
   and high production value. 🚀
 - reach out to me: anmshcodes@gmail.com 
-- check out my <a href="https://www.instagram.com/anmsh07?igsh=NmVubGE2ZjRqaGpz">instagram</a> <sub><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="13" height="13" alt="Instagram logo" /></sub>
+- check out my <a href="https://www.instagram.com/anmsh07?igsh=NmVubGE2ZjRqaGpz">instagram</a> <sub><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="10" height="10" alt="Instagram logo" /></sub>
 
 <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZwZHM4bTNoNjd3cmx5NDI5a3VnODNlN2VqYmlvNG8xdG93N2RsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xRW2cUKfcyQg/giphy.gif" />
 
